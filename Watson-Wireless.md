@@ -30,10 +30,10 @@ Observations:
 -----------------
 - Our model is better at predicting retention (churn = 0) than churn (churn = 1). This is due to the dataset containing more observations with churn=0 than churn=1. Our model should become better at predicting churn if the dataset is updated with more observations for +ve churn customers
 
-- Customers in certain address code (range 0-11) have a high churn percentage. This could be due to network issues in theses areas. Futher investigation is advised
+- Customers in certain address code (range 0-11) have a high churn percentage. This could be due to network issues in theses areas. Further investigation is advised
 
 - Customers in low income range (0-47) are more likely to leave WW. Further analysis is advised on price plans for these customers
 
-- Customers who have equip = 1 are more likely to leave WW. Futher analysis advised to uncover reasons for this
+- Customers who have equip = 1 are more likely to leave WW. Further analysis advised to uncover reasons for this
 
-- Customers with high years of education and employment are more loyal. Should proivde more incentives to attract these types of customers
+- Customers with high years of education and employment are more loyal. Should provide more incentives to attract these types of customers

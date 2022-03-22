@@ -13,7 +13,7 @@ Process
 Our process included the following steps:
 - Exploratory Data Analysis: to look at information about our dataset and the variables in it in order to get a flavor of its different aspects.
 - Feature Selection: we used correlations, boxplots, SelectKBest for automatic feature selection, this helped us identify strong predictors for profit.
-- Modeling: this included feature scaling in order to standardize our measurement scale for all numeric features, and evaluating different models like Linear Regression, Decision Tree Regressor, K Nearest Neighbours Regressor and Polynomial Regression of different degrees in order to find the model wiht lowest RMSE score.
+- Modeling: this included feature scaling in order to standardize our measurement scale for all numeric features, and evaluating different models like Linear Regression, Decision Tree Regressor, K Nearest Neighbours Regressor and Polynomial Regression of different degrees in order to find the model with lowest RMSE score.
 - Finally we evaluated the model against the testing set to check for any overfitting and see its prediction power.
 
 Conclusions and Recommendations
